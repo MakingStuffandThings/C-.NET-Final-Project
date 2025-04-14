@@ -1,0 +1,42 @@
+C:\Users\Patrick\source\repos\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.exe
+C:\Users\Patrick\source\repos\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.deps.json
+C:\Users\Patrick\source\repos\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.runtimeconfig.json
+C:\Users\Patrick\source\repos\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.dll
+C:\Users\Patrick\source\repos\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.pdb
+C:\Users\Patrick\source\repos\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\source\repos\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.dll
+C:\Users\Patrick\source\repos\NetworkingSocketProject\obj\Debug\net8.0\refint\NetworkingSocketProject.dll
+C:\Users\Patrick\source\repos\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.pdb
+C:\Users\Patrick\source\repos\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.genruntimeconfig.cache
+C:\Users\Patrick\source\repos\NetworkingSocketProject\obj\Debug\net8.0\ref\NetworkingSocketProject.dll
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.exe
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.deps.json
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.runtimeconfig.json
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.dll
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.pdb
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.AssemblyInfoInputs.cache
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.AssemblyInfo.cs
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.csproj.CoreCompileInputs.cache
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.dll
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\obj\Debug\net8.0\refint\NetworkingSocketProject.dll
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.pdb
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.genruntimeconfig.cache
+C:\Programing\C#\Socket project\Socket project\NetworkingSocketProject\obj\Debug\net8.0\ref\NetworkingSocketProject.dll
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.exe
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.deps.json
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.runtimeconfig.json
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.dll
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\bin\Debug\net8.0\NetworkingSocketProject.pdb
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.GeneratedMSBuildEditorConfig.editorconfig
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.AssemblyInfoInputs.cache
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.AssemblyInfo.cs
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.csproj.CoreCompileInputs.cache
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.dll
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\obj\Debug\net8.0\refint\NetworkingSocketProject.dll
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.pdb
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\obj\Debug\net8.0\NetworkingSocketProject.genruntimeconfig.cache
+X:\Programing\C#\Networking\SocketProjectV0.2\Socket project\NetworkingSocketProject\obj\Debug\net8.0\ref\NetworkingSocketProject.dll
