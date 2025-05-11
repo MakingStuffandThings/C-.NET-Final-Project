@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="ChatRoomClientWPF.RegularUser"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ChatRoomClientWPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="550" d:DesignWidth="1000">
+    <Grid Margin="0,0,-155,0">
+
+        <Label Content="Chat" HorizontalAlignment="Left" Margin="699,95,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.527,0.425"/>
+        <ListBox x:Name="ChatListBox" HorizontalAlignment="Center" Height="274" Margin="0,34,0,0" VerticalAlignment="Top" Width="760" />
+
+        <Button Content="Logout" HorizontalAlignment="Center" Margin="0,353,0,0" VerticalAlignment="Top" Width="218" Height="35" Click="Logout_Click" />
+        <TextBox HorizontalAlignment="Left" Margin="198,313,0,0" TextWrapping="Wrap" Name="MessageBox" Text="" VerticalAlignment="Top" Width="668" Height="35"/>
+        <Button Content="Send Message" HorizontalAlignment="Left" Margin="872,313,0,0" VerticalAlignment="Top" Height="35" Width="86" Click="SendMessage_Click"/>
+
+    </Grid>
+</UserControl>
